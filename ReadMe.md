@@ -1,3 +1,1 @@
-#### Courser Golang homework #1
-
-* GoTree is cmd utility for draw file structure
+- simple golang utility for show tree file structure
